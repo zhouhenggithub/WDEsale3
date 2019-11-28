@@ -1,0 +1,1 @@
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/zhouhenggithub/WDEsale3/master/manifest.plist
